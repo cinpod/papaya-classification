@@ -1,1 +1,1 @@
-# Purpose: Research
+# Papaya Classification using hyperspectral images
